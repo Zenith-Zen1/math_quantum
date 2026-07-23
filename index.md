@@ -5,7 +5,7 @@
 layout: single
 author_profile: false
 ---
-Complex numbers are numbers with a *real component* and an *imaginary component* 
+Understanding complex numbers are essential to understanding quantum computing. Complex numbers have a *real component* and an *imaginary component*, represented by 
 \\(a + bi\\) where a and b are **real numbers** 
 An extended explanation can be found [here](https://en.wikipedia.org/wiki/Complex_number)
 
@@ -16,3 +16,4 @@ Complex numbers can also be represented in polar formas below.
 
 To understand how polar form is derived, check out this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=KpZM1HVsF6wPEbmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
