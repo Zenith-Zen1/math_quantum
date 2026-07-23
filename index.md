@@ -5,6 +5,23 @@
 layout: single
 author_profile: false
 ---
+## Background
+### Motivation
+
+### Video: Quantum Computing's future in Cryptography
+
+## Tools
+
+### Number Theory
+RSA, traditional algorithms
+
+## Goals
+### Interested in studying cyptography
+### Interested in taking quantum computing classes
+### Interested in working at the intersection of cryptography and QIS
+
+## Ethics
+
 ## Complex Numbers
 Understanding complex numbers are essential to understanding quantum computing. Complex numbers have a *real component* and an *imaginary component*, represented by 
 \\(a + bi\\) where a and b are **real numbers** 
