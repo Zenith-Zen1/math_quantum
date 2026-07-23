@@ -5,6 +5,7 @@
 layout: single
 author_profile: false
 ---
+## Complex Numbers
 Understanding complex numbers are essential to understanding quantum computing. Complex numbers have a *real component* and an *imaginary component*, represented by 
 \\(a + bi\\) where a and b are **real numbers** 
 An extended explanation can be found [here](https://en.wikipedia.org/wiki/Complex_number)
