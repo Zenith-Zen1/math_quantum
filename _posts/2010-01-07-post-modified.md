@@ -1,5 +1,5 @@
 ---
-title: "Post: Modified Date"
+title: "Post: Background"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
@@ -8,7 +8,12 @@ tags:
   - readability
   - standard
 ---
+## Background
+Modern cryptography protects sensitive information by transforming it into a form that unauthorized users cannot read. Many widely used encryption systems, such as RSA, rely on mathematical problems that are extremely difficult for classical computers to solve. For example, RSA’s security depends on the difficulty of factoring very large numbers.
 
-This post has been updated and should show a modified date if used in a layout.
+Quantum computing could significantly change this field. Shor’s algorithm would allow a sufficiently powerful quantum computer to factor large numbers much faster than known classical algorithms, potentially breaking RSA and other commonly used public-key encryption systems. Grover’s algorithm could also speed up searches for encryption keys, weakening some symmetric encryption methods.
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+However, quantum computing can also improve security. Quantum key distribution uses principles such as superposition and measurement to help two parties exchange encryption keys while detecting eavesdropping. Researchers are also developing post-quantum cryptography: classical encryption methods designed to remain secure against both classical and quantum attacks. Therefore, the relationship between cryptography and quantum computing involves both a major security threat and an opportunity to create stronger methods of protecting information.
+### Motivation
+
+As quantum computers become more powerful, they may eventually be able to break many of the encryption systems currently used to protect passwords, financial transactions, medical records, and private communications. This makes it important to understand these risks before large-scale quantum computers become available. Studying the connection between quantum computing and cryptography can reveal which current security methods are vulnerable and how post-quantum cryptography and quantum key distribution could protect information in the future.
