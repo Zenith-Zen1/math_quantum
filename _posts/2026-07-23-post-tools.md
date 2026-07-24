@@ -18,6 +18,6 @@ Conventional encryption systems like RSA use modular number theories to encode m
 Quantum bits, called qubits, are unlike normal bits. Normal bits can be either 0 or 1. Qubits can exist in a superposition of 0 and 1, holding two values at the same time until they are measured. Qubits can also be entangled, meaning that the value of one qubit depends on another, disregarding physical distance.
 
 ### Quantum visualization: Quirk
-[Quirk]([https://en.wikipedia.org/wiki/Complex_number](https://algassert.com/quirk))
+[Quirk](https://algassert.com/quirk)
 
 ### Programming: Python for implementing and simulating quantum circuits and cryptographic algorithms
